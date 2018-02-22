@@ -56,7 +56,7 @@ fprintf('Plot the graph\n');
 x = 1:n;
 
 figure()
-subplot(1,2,1); semilogx(x,s1 ,'b', x, log(x),      'r-' ); 
+subplot(1,2,1); semilogx(x,s1 ,'b', x, log(x),'r-' ); 
 
 y = ones(n,1)*(pi^2)/6;
 subplot(1,2,2); semilogx(x,s2 ,'b', x, y, 'r-' );
