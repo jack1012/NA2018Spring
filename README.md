@@ -6,14 +6,14 @@ Text book: Numerical Analysis, Richard L. Burden and J. Douglas Faires, 10th edi
 
 ## Mathematical preliminaries and error analysis    (slide)
 ### Round-off errors and computer arithmetic
-+ IEEE standard floating-point format  (video) 
-+ Absolute and relative errors   (video)
-+ Machine epsilon
-+ Loss of significance   (video)
+> + IEEE standard floating-point format  (video) 
+> + Absolute and relative errors   (video)
+> + Machine epsilon
+> + Loss of significance   (video)
 ### Algorithms and convergence   (video)
-+ Algorithm
-+ Stability
-+ Rate of convergence
+> + Algorithm
+> + Stability
+> + Rate of convergence
 
 ## Solutions of Equations in One Variable  (slide)
 + Bisection Method   (video)
