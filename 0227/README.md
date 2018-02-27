@@ -1,5 +1,5 @@
 # MATLAB Tutorial
 
-![Alt text](destop.png)
+![Alt text](/destop.png)
 
 ## Desktop Basics
