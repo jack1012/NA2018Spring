@@ -15,8 +15,8 @@ MATLAB	has	the	following	windows:
 Question 1 
 Compute 1+1/2+1/3+1/4+1/5 ... 1/40
 
-> You can dirctly enter commands at command windows
-> 1+1/2+1/3+1/4+1/5 
+> You can dirctly enter commands at command line
+>   1+1/2+1/3+1/4+1/5 
 
 
 
