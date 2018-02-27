@@ -1,9 +1,22 @@
-# NA2018Spring 
+# Numerical Analysis (數值分析)
+- Text book : Numerical Analysis, Richard L. Burden and J. Douglas Faires, 10th edition
+- 時間：星期二,  pm 1:20-4:20
+- 地點：公館校區
 
-Numerical Analysis
+## 考試日期:
 
-Text book: Numerical Analysis, Richard L. Burden and J. Douglas Faires, 10th edition
+> 期中考：2018/4/24
+> 期末考：2018/6/26
 
+## 學期成績：
+
+- 期中考：30%
+- 期末考：30%
+- 程式與書面報告：25%
+- 作業：10%
+- 平時：5%
+
+# Numerical Analysis 2017 Fall
 ## Mathematical preliminaries and error analysis    (slide)
 ### Round-off errors and computer arithmetic
 > + IEEE standard floating-point format  (video) 
