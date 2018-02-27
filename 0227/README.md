@@ -21,7 +21,10 @@ Compute 1+1/2+1/3+1/4+1/5 ... 1/40
 MATLAB adds variable ans to the workspace and displays the result in the Command Window.
 > ans = 4.2785
 
-
+Note: Some commands 
+> 'clc'
+> 'clear'
+> '...'
 
 
 
