@@ -22,9 +22,9 @@ MATLAB adds variable ans to the workspace and displays the result in the Command
 > ans = 4.2785
 
 Note: Some commands 
-> 'clc'
-> 'clear'
-> '...'
+'clc'
+'clear'
+'...'
 
 
 
