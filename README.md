@@ -2,11 +2,12 @@
 - Text book : Numerical Analysis, Richard L. Burden and J. Douglas Faires, 10th edition
 - 時間：星期二,  pm 1:20-4:20
 - 地點：公館校區
+- https://sites.google.com/gapps.ntnu.edu.tw/tmhuang/courses
 
 ## 考試日期:
 
-> - 期中考：2018/4/24
-> - 期末考：2018/6/26
+- 期中考：2018/4/24
+- 期末考：2018/6/26
 
 ## 學期成績：
 - 期中考：30%
