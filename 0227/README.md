@@ -1,7 +1,7 @@
 # MATLAB Tutorial
 
-## Desktop Basics
-The MATLAB desktop includes these panels:
+## MATLAB	Environment
+MATLAB	has	the	following	windows:
 - Current Folder — Access your files.
 - Command Window — Enter commands at the command line, indicated by the prompt (>>).
 - Workspace — Explore data that you create or import from files.
@@ -11,7 +11,9 @@ The MATLAB desktop includes these panels:
 
 ## Learn to code with MATLAB
 ### Question 1 
-1. Compute 1+1/2+1/3+1/4+1/5 ... 1/40
+Compute 1+1/2+1/3+1/4+1/5 ... 1/40
+
+> You can 
 
 
 ### Question 2
