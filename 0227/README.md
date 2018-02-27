@@ -41,7 +41,6 @@ Note: Some commands
 - Paste the code on the Editor
 - Click `RUN` 
 
-# config.rb
 set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 ``` Matlab {.linenums}
