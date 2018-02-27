@@ -10,10 +10,13 @@ MATLAB	has	the	following	windows:
 
 
 ## Learn to code with MATLAB
-### Question 1 
+### Using Commands to compute
+
+Question 1 
 Compute 1+1/2+1/3+1/4+1/5 ... 1/40
 
-> You can 
+> You can dirctly enter commands at command windows
+
 
 
 ### Question 2
