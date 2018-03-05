@@ -51,6 +51,4 @@ set :markdown, :fenced_code_blocks => true, :smartypants => true
 +1/31+1/32+1/33+1/34+1/35+1/36+1/37+1/38+1/39+1/40 
 ```
 
-### 3. 
-
-### Question 4
+### 3.
